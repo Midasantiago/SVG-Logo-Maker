@@ -3,6 +3,10 @@
 ## Description
     
 For users who want a quick logo without going through the hassle of commissioning one from a graphhic artist
+
+## Screenshot
+
+![Full Application View](assets/SVG_Logo_SS.PNG)
     
 ## Table of Contents
     
