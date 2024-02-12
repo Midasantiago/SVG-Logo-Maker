@@ -24,6 +24,10 @@ to install dependencies, run 'npm i' in the terminal at root directory.
 ## Usage
     
 Once dependencies are installed, run 'npm run start'. After that follow the prompts and once complete the logo will be placed at the root directory.
+
+## Walkthrough Video
+
+https://youtu.be/uoX-43WOTCo
     
 ## License
     
